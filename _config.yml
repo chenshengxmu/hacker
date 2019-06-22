@@ -16,6 +16,17 @@ paginate_path: /page:num/
 collections:
   zhan-guo-che:
     output: true
+  array:
+    output: true
+  list:
+    output: true
+  stack:
+    output: true
+  queue:
+    output: true
+  tree:
+    output: true
+
 
 
 defaults:
