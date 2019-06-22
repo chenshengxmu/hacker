@@ -13,6 +13,11 @@ permalink: /:title
 paginate: 10
 paginate_path: /page:num/
 
+collections:
+  zhan-guo-che:
+    output: true
+
+
 defaults:
   -
     scope:
@@ -30,3 +35,4 @@ plugins:
 # Custom variables
 owner : "chensheng"
 year : "2019"
+
