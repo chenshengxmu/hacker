@@ -26,6 +26,8 @@ collections:
     output: true
   tree:
     output: true
+  matrix:
+    output: true
 
 
 
